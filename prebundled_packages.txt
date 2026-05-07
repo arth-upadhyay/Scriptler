@@ -1,3 +1,4 @@
 // ABIs: arm64-v8a
 // Packages to prebundle:
 renpy-encyclopaedia
+pyTelegramBotAPI
